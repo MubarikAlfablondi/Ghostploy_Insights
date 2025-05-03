@@ -11,3 +11,13 @@ This project analyzes the effectiveness of job search engines in recommending jo
 - Export the data to CSV format.
 - Analyze how well the job recommendations match my job preferences.
 - Visualize trends and insights to determine the effectiveness of job search engines.
+---
+
+## Project Structure
+
+- **`Data/`**: Contains raw and processed job application data.
+- **`Source/`**: Contains Python scripts for data collection, processing, and analysis.
+- **`Results/`**: Folder to store visualizations (charts, graphs) and PDF reports.
+- **`README.md`**: Project documentation explaining goals and results.
+
+---

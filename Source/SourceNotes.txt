@@ -1,0 +1,2 @@
+Source Notes 
+this folder is the visualization folder. I write in python or R (haven't decided yet) of the raw data that's been pulled.  

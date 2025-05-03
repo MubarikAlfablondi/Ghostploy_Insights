@@ -1,0 +1,6 @@
+Raw Data in 3 formats
+CSV
+ODS 
+xlsx (Microsoft)
+
+This is for data nerds that want to improve on my data structure or place their own application documentation.
